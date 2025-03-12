@@ -3,4 +3,6 @@ I'm a passionate developer who loves coding, learning new technologies, and buil
 
 Thanks for  stopping by!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiloszSobczyk)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="./goat.png" alt="alt text" width="40%">
