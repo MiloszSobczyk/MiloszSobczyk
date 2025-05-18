@@ -13,25 +13,10 @@ Thanks for stopping by!
 
 ---
 
-## 📈 Streak & Top Languages
-
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <!-- Dark Mode -->
 [![GitHub Streak – Dark](https://github-readme-streak-stats.herokuapp.com?user=MiloszSobczyk&theme=dark&date_format=j%20M%5B%20Y%5D&background=4b0082,6a0dad,8b008b&fire=fff&sideLabels=fff#gh-dark-mode-only)](https://git.io/streak-stats)
-
-### 🏆 Top Languages
-
-<!-- Dark Mode -->
-[![Top Languages – Dark](https://github-readme-stats.vercel.app/api/top-langs?username=MiloszSobczyk&layout=compact&theme=dark&bg_color=4b0082,6a0dad,8b008b&title_color=fff&text_color=fff#gh-dark-mode-only)](https://github.com/MiloszSobczyk)
-
----
-
-## 🌟 Activity Graph
-
-Visualize my contributions over the past year:
-
-![Milosz’s Contribution Graph – Dark](https://activity-graph.herokuapp.com/graph?username=MiloszSobczyk&theme=highcontrast#gh-dark-mode-only)
 
 ---
 
