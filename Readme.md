@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Milosz**, a passionate developer who loves coding, learning new technologies, and building interesting projects. Currently diving into **OpenGL** and **web development**, while actively sharpening my **algorithms & data structures** skills.
+I’m **Miłosz**, a passionate developer who loves coding, learning new technologies, and building interesting projects. Currently diving into **OpenGL** and **web development**, while actively sharpening my **algorithms & data structures** skills.
 
 Thanks for stopping by!
 
