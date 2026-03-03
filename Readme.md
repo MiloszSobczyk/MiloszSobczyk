@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Miłosz**, a passionate developer who loves coding, learning new technologies, and building interesting projects. Currently diving into **OpenGL** and **Game development**, while actively sharpening my **algorithms & data structures** skills.
+I’m **Miłosz**. I am a Software Engineer at Google, who loves creating games in his free time.
 
 Thanks for stopping by!
 
