@@ -13,6 +13,10 @@ Thanks for stopping by!
 - 💼 [LinkedIn](https://www.linkedin.com/in/mi%C5%82osz-sobczyk-621546273/)  
 - 📫 m.sobczyk.official@gmail.com
 
+<p align="center">
+  <img src="goat.png" width="35%" alt="Description of image">
+</p>
+
 <!--
 **MiloszSobczyk/MiloszSobczyk**  
 **Repo:** github-readme-stats by anuraghazra  
